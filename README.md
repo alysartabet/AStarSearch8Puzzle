@@ -3,7 +3,6 @@ This Python program implements the 8-puzzle problem solver using the A search al
 # How to Use
 Run the script:
 
-```sh
-python3 astarsearch.py
+```sh python3 astarsearch.py ```
 
 The program will output the solution steps if solvable.
